@@ -1,8 +1,7 @@
-# Hi there, I'm Krishna
+# Hi there 👋 , I'm Krishna
 
 **Electronics and Communication Engineering (ECE) Student
-Passionate about FPGA Design, Digital Systems, Wireless Communication, AI&ML in Signal Processing and Quantum Computing
-Exploring the Electronics that runs Telecom, Embedded Systems, and Hardware Acceleration for Quantum computers**
+Passionate about FPGA Design, Digital Systems, Wireless Communication, AI&ML in Signal Processing and Quantum Computing.Exploring the Electronics that runs Telecom, Embedded Systems, and Hardware Acceleration for Quantum computers**
 
 ## About Me
 
