@@ -17,6 +17,7 @@ I enjoy solving hardware design problems, experimenting with communication techn
 * Digital Logic Design
 * Communication Systems
 * Signal Processing
+* PCB Designing
 * Networking Fundamentals
 
 
